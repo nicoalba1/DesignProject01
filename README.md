@@ -12,7 +12,7 @@ To run:
     
 File Descriptions:
 ------------------
--Main.pdf
+-Main.pdf:
     PDF of submitted report.
     
 -DesignProblem01:
