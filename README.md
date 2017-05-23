@@ -4,13 +4,13 @@ DesignProblem01 for AE 353: Aerospace Controls
 Goal:
 To Stabalize a spinning sattelite about 1-axis by applying thrust to 2 actuators that will change the angular velocities of the satellite.
 
-#To run:
-1) Open Files in MATLAB
-2) In the command window run:
+# To run:
+Open Files in MATLAB
+In the command window run:
     DesignProblem01('Controller','diagnostics',true)
     
     
-#File Descriptions:
+# File Descriptions:
 ------------------
 -Main.pdf:
     PDF of submitted report.
