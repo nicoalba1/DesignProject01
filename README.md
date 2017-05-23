@@ -6,8 +6,8 @@ To Stabalize a spinning sattelite about 1-axis by applying thrust to 2 actuators
 
 # To run:
 Open Files in MATLAB
-In the command window run:
-    DesignProblem01('Controller','diagnostics',true)
+
+In the command window run: DesignProblem01('Controller','diagnostics',true)
     
     
 # File Descriptions:
