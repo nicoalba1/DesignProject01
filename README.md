@@ -12,6 +12,9 @@ To run:
     
 File Descriptions:
 ------------------
+-Main.pdf
+    PDF of submitted report.
+    
 -DesignProblem01:
     Provided simulation that creates a randomly spinning satelite.
     
